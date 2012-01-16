@@ -1,0 +1,50 @@
+/* This file will hold styles that are loaded using the same media query as the normal grid. */
+.container-12 {
+
+}
+
+.container-12 .region-menu.grid-12 {
+	margin: 0 35px;
+}
+
+.container-12 .region-branding.grid-12 {
+	margin: 0 35px;
+}
+
+.container-12 #breadcrumb {
+	margin: 0 35px;
+}
+
+.container-12 .region-sidebar-first.grid-3 {
+	margin-left: 35px;
+	width: 195px;
+}
+
+.container-12 .region-sidebar-second.grid-3 {
+	margin-right: 35px;
+	width: 195px;
+}
+
+
+.container-12 .region-content.grid-6{
+	padding: 2em 0;
+	margin: 0 25px;
+	width: 430px;
+}
+
+.container-12 .region-sidebar-first {
+	padding: 6em 0;
+}
+
+.container-12 .region-sidebar-second {
+	margin-top: 2em;	
+}
+
+.container-12 .region-postscript-first.suffix-1 {
+	padding-left: 25px;
+	padding-right: 55px;
+}
+
+.zone-postscript {
+	padding-bottom: 25px;
+}

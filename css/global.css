@@ -1,0 +1,117 @@
+/* This file will hold the main styles for your website. */
+body {
+	background: #e9e1c7;
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+	font-size: 100%;
+	color: #565656;
+}
+
+#breadcrumb {
+	padding: 0.6em 0;
+
+	font-size: 0.5625em;
+	text-transform: uppercase;
+}
+
+#breadcrumb a {
+	color: #565656;
+}
+
+.region-sidebar-first {
+	font-size: 0.75em;
+}
+
+.region-sidebar-first .block-title {
+	font-size: 0.916em;
+	color: #565656;
+	border-bottom: 1px solid #565656;
+	padding-bottom: .5em;
+	text-transform: uppercase;
+}
+
+.region-sidebar-second-inner {
+	background: #eaeaea;
+	padding: 1.5em;
+	font-size: 0.875em;
+}
+
+.region-sidebar-second .block-title {
+	margin-top: 0;
+	margin-bottom: 1em;
+}
+
+.zone-content, .zone-branding {
+	background: #fff;
+}
+
+.zone-menu {
+	background: #eaeaea;
+}
+
+.zone-postscript {
+	background: #fff;
+	font-size: 0.75em;
+}
+
+.zone-postscript h2 {
+	font-size: 1em;
+}
+
+.region-branding-inner {
+	padding: 30px 0;
+}
+
+/*Navigation*/
+ul#main-menu.inline li {
+	padding: 0 18px;
+	border-right: 1px solid #565656;
+}
+
+#main-menu a {
+	color: #565656;
+	font-weight: bold;
+	text-decoration: none;
+	line-height: 36px;
+
+}
+
+ul#main-menu.inline li.first {
+	padding-left: 0;
+}
+
+#main-menu a:hover {
+	border-bottom: 3px solid #f8a500;
+}
+
+ul#main-menu.inline li.last {
+	padding-right: 0;
+	border-right: none;
+}
+
+h1.title {
+	font-size: 1.5625em;
+	margin-bottom: 0.5em;
+}
+
+h2 {
+	margin-top: 1em;
+	font-size: 1.375em;
+	color: #f8a500;
+	font-weight: 500;
+}
+
+h3 {
+	margin-top: 1em;
+	color: #f8a500;	
+	font-weight: 500;
+}
+
+p {
+	line-height: 1.375em;
+	margin: .5em 0;
+}
+
+a {
+	color: #565656;
+	text-decoration: underline;
+}
